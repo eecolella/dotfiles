@@ -27,7 +27,8 @@
         "noSymlinks" : true,
         "exclude" : [
           "aliases.secret.fish",
-          "exports.secret.fish"
+          "exports.secret.fish",
+          "functions.secret.fish"
         ]
       }
     },

@@ -1,0 +1,62 @@
+# ---------------------------------
+# Navigation
+# ---------------------------------
+
+alias home="cd ~"
+alias .="cd ."
+alias ..="cd .."
+alias ...="cd ../../"
+alias ....="cd ../../../"
+alias .....="cd ../../../../"
+alias proj="cd ~/Projects"
+alias play="cd ~/Playground"
+
+
+# ---------------------------------
+# Git specific aliases
+# ---------------------------------
+
+alias gi="git init"
+alias gs="git status"
+alias gp="git push"
+alias ga="git add"
+alias gc="git commit -am"
+alias gb="git branch"
+alias gf="git fetch"
+
+alias gra="git remote add"
+alias gco="git checkout"
+
+alias gpo="git push origin"
+alias gpom="git push origin master"
+
+
+# ---------------------------------
+# NPM
+# ---------------------------------
+
+alias nr="npm run"
+alias ni="npm install"
+alias nid="npm install -D"
+alias a-npm-clean-locks="find . -type f -name package-lock.json -exec rm {} +"
+alias a-npm-list-linked-in-foledr="ls -al ./node_modules"
+alias a-npm-list-global-packages="npm list -g --depth=0"
+alias a-npm-create-react-app="npx create-react-app"
+alias a-npm-create-react-app-ts="npx create-react-app --scripts-version=react-scripts-ts"
+alias a-npm-tree-node-modules="tree -I node_modules"
+
+
+# ---------------------------------
+# Yarm
+# ---------------------------------
+
+alias y="yarn"
+alias ys="yarn start"
+alias a-yarn-clean-yarns="find . -type f -name yarn.lock -exec rm {} +"
+alias a-yarn-list-links="sudo sh ~/Projects/aeneas/packages/sh-scripts/list-yarn-links.sh"
+
+
+# This should be the last line of the file
+# For local changes
+# Don't make edits below this
+[ -f ".aliases.local" ] && source ".aliases.local"

@@ -1,0 +1,42 @@
+{
+  "url" : "git@github.com:eecolella/dotfiles.git",
+  "readme" : "README.md",
+  "entities" : [
+    ["_brew.txt", "brew list"],
+    ["_brew-cask.txt", "brew cask list"],
+    ["_brew-tap.txt", "brew tap-info --installed"],
+    ["_fisher.txt", "fish -c 'fisher ls'"],
+    [
+      "_node-global-packages.txt",
+      "npm list -g --depth=0 2> /dev/null | awk 'match($0, /\\w*@([0-9]+\\.?)*/) {print $2}'"
+    ],
+    "~/.gitconfig",
+    "~/.hyper.js",
+    "~/.macos",
+    "~/.bashrc",
+    "~/.bash_profile",
+    "~/.zshrc",
+    "~/.fzf.zsh",
+    "~/.aliases",
+    "~/.exports",
+    "~/.functions",
+    {
+      "i" : "~/.config/fish",
+      "o" : ".config/fish",
+      "options" : {
+        "noSymlinks" : true,
+        "exclude" : [
+          "aliases.secret.fish",
+          "exports.secret.fish"
+        ]
+      }
+    },
+    {
+      "i" : "~/.config/omf",
+      "o" : ".config/omf",
+      "options" : {
+        "noSymlinks" : true
+      }
+    }
+  ]
+}

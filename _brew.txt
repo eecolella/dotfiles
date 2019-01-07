@@ -1,0 +1,5 @@
+fish
+fzf
+jq
+oniguruma
+pcre2

@@ -1,0 +1,11 @@
+homebrew/cask: unpinned, 1 command, 4093 casks
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask (4,433 files, 62MB)
+From: https://github.com/Homebrew/homebrew-cask
+
+homebrew/cask-fonts: unpinned, 1180 casks
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-cask-fonts (1,247 files, 1.2MB)
+From: https://github.com/Homebrew/homebrew-cask-fonts
+
+homebrew/core: unpinned, 2 commands, 4673 formulae
+/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core (4,942 files, 14.6MB)
+From: https://github.com/Homebrew/homebrew-core

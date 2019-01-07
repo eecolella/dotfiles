@@ -1,3 +1,4 @@
+bat
 fish
 fzf
 jq

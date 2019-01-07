@@ -140,8 +140,8 @@ module.exports = {
   plugins: [
     "hyper-tabs-enhanced",
     "hyper-pane",
-    "hyper-material-theme",
-    "hyperfullscreen"
+    "hyperfullscreen",
+    "hyper-oceanic-next"
   ],
 
   // in development, you can create a directory under

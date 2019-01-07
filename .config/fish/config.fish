@@ -14,6 +14,8 @@
 
  set -g theme_display_node yes
 
+ set -g theme_color_scheme light
+
 
 # ---------------------------------
 # Source

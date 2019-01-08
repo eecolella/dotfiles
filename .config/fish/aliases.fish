@@ -19,7 +19,8 @@ alias play "cd ~/Playground"
 
 alias gi "git init"
 alias gs "git status"
-alias gp "git push"
+alias gph "git push"
+alias gpl "git pull"
 alias ga "git add"
 alias gc "git commit -am"
 alias gb "git branch"
@@ -55,13 +56,6 @@ alias y "yarn"
 alias ys "yarn start"
 alias a-yarn-clean-yarns "find . -type f -name yarn.lock -exec rm {} +"
 alias a-yarn-list-links "sudo sh ~/Projects/aeneas/packages/sh-scripts/list-yarn-links.sh"
-
-
-# ---------------------------------
-# Misc
-# ---------------------------------
-
-alias reload "source ~/.config/fish/config.fish"; echo "Fish config reloaded!"
 
 
 # This should be the last line of the file

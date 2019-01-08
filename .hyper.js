@@ -52,7 +52,7 @@ module.exports = {
     borderColor: '#333',
 
     // custom CSS to embed in the main window
-    css: '',
+    css: `.splitpane_divider { background-color: white !important; }`,
 
     // custom CSS to embed in the terminal window
     termCSS: '',
@@ -141,7 +141,7 @@ module.exports = {
     "hyper-tabs-enhanced",
     "hyper-pane",
     "hyperfullscreen",
-    "hyper-oceanic-next"
+    "hyper-altair"
   ],
 
   // in development, you can create a directory under

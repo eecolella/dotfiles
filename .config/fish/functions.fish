@@ -1,7 +1,19 @@
 
-function fw -S -d '(F)uzzy search a file and open it in (W)webstorm'
+function fow -S -d '(F)fuzzy search a file and (O)open it in (W)webstorm'
   find * -type f | fzf | read -l result; and webstorm "$result"
 end
+
+
+function fh -S -d '(F)fuzzy search a command in the (H)history'
+  cat ~/.local/share/fish/fish_history | fzf | sed -e 's/- cmd://g' | pbcopy
+end
+
+
+function reload -S -d 'Reload Fish config'
+  source ~/.config/fish/config.fish
+  echo "Fish config reloaded!"
+end
+
 
 function __check_nvm --on-variable PWD --description 'Auto "nvm use" if there is a .nvmrc in the folder'
   if test -f .nvmrc

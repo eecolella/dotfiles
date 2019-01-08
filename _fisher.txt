@@ -1,2 +1,4 @@
+Fish config reloaded!
 edc/bass
+FabioAntunes/fish-nvm
 jethrokuan/z

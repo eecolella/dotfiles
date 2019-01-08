@@ -57,6 +57,13 @@ alias a-yarn-clean-yarns "find . -type f -name yarn.lock -exec rm {} +"
 alias a-yarn-list-links "sudo sh ~/Projects/aeneas/packages/sh-scripts/list-yarn-links.sh"
 
 
+# ---------------------------------
+# Misc
+# ---------------------------------
+
+alias reload "source ~/.config/fish/config.fish"; echo "Fish config reloaded!"
+
+
 # This should be the last line of the file
 # For local changes
 # Don't make edits below this

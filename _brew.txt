@@ -2,5 +2,6 @@ bat
 fish
 fzf
 jq
+nvm
 oniguruma
 pcre2

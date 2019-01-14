@@ -9,6 +9,7 @@ oniguruma
 openssl
 pcre2
 python
+ranger
 readline
 sqlite
 xz

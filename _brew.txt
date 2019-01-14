@@ -1,7 +1,14 @@
 bat
 fish
 fzf
+gdbm
+httpie
 jq
 nvm
 oniguruma
+openssl
 pcre2
+python
+readline
+sqlite
+xz

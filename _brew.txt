@@ -1,6 +1,7 @@
 bat
 fish
 fzf
+fzy
 gdbm
 httpie
 jq

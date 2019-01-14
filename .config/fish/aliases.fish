@@ -54,6 +54,8 @@ alias a-npm-tree-node-modules "tree -I node_modules"
 
 alias y "yarn"
 alias ys "yarn start"
+alias yl "yarn lint"
+alias yt "yarn test"
 alias a-yarn-clean-yarns "find . -type f -name yarn.lock -exec rm {} +"
 alias a-yarn-list-links "sudo sh ~/Projects/aeneas/packages/sh-scripts/list-yarn-links.sh"
 

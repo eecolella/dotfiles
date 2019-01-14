@@ -11,5 +11,6 @@ pcre2
 python
 ranger
 readline
+realpath
 sqlite
 xz

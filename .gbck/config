@@ -12,6 +12,7 @@
     ],
     "~/.gitconfig",
     "~/.hyper.js",
+    "~/.npmrc",
     "~/.macos",
     "~/.bashrc",
     "~/.bash_profile",

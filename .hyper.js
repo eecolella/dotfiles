@@ -140,7 +140,6 @@ module.exports = {
   plugins: [
     "hyper-tabs-enhanced",
     "hyper-pane",
-    "hyperfullscreen",
     "hyper-altair"
   ],
 

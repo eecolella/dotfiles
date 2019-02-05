@@ -39,6 +39,13 @@
       "options" : {
         "noSymlinks" : true
       }
+    },
+    {
+      "i" : "~/.config/iterm2",
+      "o" : ".config/iterm2",
+      "options" : {
+        "noSymlinks" : true
+      }
     }
   ]
 }

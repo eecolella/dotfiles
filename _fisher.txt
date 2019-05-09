@@ -1,3 +1,5 @@
+Found '/Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/.nvmrc' with version <v8.9.3>
+Now using node v8.9.3 (npm v5.5.1)
 edc/bass
 FabioAntunes/fish-nvm
 jethrokuan/z

@@ -1,2 +1,3 @@
+db-browser-for-sqlite
 font-firacode-nerd-font
 hyper

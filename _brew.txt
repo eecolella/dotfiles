@@ -12,5 +12,6 @@ python
 ranger
 readline
 realpath
+ripgrep
 sqlite
 xz

@@ -22,6 +22,16 @@
     "~/.exports",
     "~/.functions",
     {
+      "i" : "~/.quokka",
+      "o" : ".quokka",
+      "options" : {
+        "noSymlinks" : true,
+        "include" : [
+          "config.json"
+        ]
+      }
+    },
+    {
       "i" : "~/.config/fish",
       "o" : ".config/fish",
       "options" : {

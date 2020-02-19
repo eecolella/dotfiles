@@ -37,9 +37,9 @@ alias gpom "git push origin master"
 # NPM
 # ---------------------------------
 
-alias nr "npm run"
-alias ni "npm install"
-alias nid "npm install -D"
+alias n "npm run"
+alias ni "npm install --save"
+alias nid "npm install --save-dev"
 alias a-npm-clean-locks "find . -type f -name package-lock.json -exec rm {} +"
 alias a-npm-list-linked-in-foledr "ls -al ./node_modules"
 alias a-npm-list-global-packages "npm list -g --depth=0"
@@ -67,7 +67,24 @@ alias a-yarn-list-links "sudo sh ~/Projects/aeneas/packages/sh-scripts/list-yarn
 alias r "ranger --choosedir=$HOME/rangerdir;cd (cat $HOME/rangerdir)"
 
 
+# ---------------------------------
+# Misc
+# ---------------------------------
+
+alias kn "sudo killall node"
+
+
+
+
+
+
+
+
+
+
+# ---------------------------------
+# LAST LINE !!!!
+# ---------------------------------
 # This should be the last line of the file
-# For local changes
-# Don't make edits below this
+
 source ~/.config/fish/aliases.secret.fish

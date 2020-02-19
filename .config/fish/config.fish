@@ -26,7 +26,10 @@ set -g SPACEFISH_PACKAGE_SHOW false
 # Source
 # ---------------------------------
 
+
 source ~/.config/fish/aliases.fish
+source ~/.config/fish/functions.fish
 source ~/.config/fish/exports.fish
-source ~/.config/fish/functions.fish
-source ~/.config/fish/functions.fish
+source ~/.iterm2_shell_integration.(basename $SHELL)
+test -e {$HOME}/.iterm2_shell_integration.fish ; and source {$HOME}/.iterm2_shell_integration.fish
+

@@ -4,34 +4,38 @@
 <dict>
 	<key>AppleAntiAliasingThreshold</key>
 	<integer>1</integer>
+	<key>ApplePressAndHoldEnabled</key>
+	<false/>
 	<key>AppleScrollAnimationEnabled</key>
 	<integer>0</integer>
 	<key>AppleSmoothFixedFontsSizeThreshold</key>
 	<integer>1</integer>
 	<key>AppleWindowTabbingMode</key>
 	<string>manual</string>
+	<key>BadgeFontIsBold</key>
+	<false/>
 	<key>Coprocess MRU</key>
 	<array>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/QGOD-6192_sideload/packages/feature-video-player/src/constants.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/QGOD-6192_sideload/packages/feature-video-player/src/constants.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/pf/master/addons/adobe-addon/src/adapters.ts --line 178 /Users/ermeseneacolella/Projects/sky/repos/pf/master/addons/adobe-addon/src/adapters.ts</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/QGOD-6192_sideload/packages/feature-ovp/src/tests/sagas.test.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/QGOD-6192_sideload/packages/feature-ovp/src/tests/sagas.test.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/packages/feature-tracking/src/page/strategies/element/recommendationsRailReady.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/packages/feature-tracking/src/page/strategies/element/recommendationsRailReady.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/packages/service-data-qbox/src/adapters.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/packages/service-data-qbox/src/adapters.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/platforms/smarttv/src/components/PlayerOverlay/ScrubBar/index.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/ermes-gr05/platforms/smarttv/src/components/PlayerOverlay/ScrubBar/index.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/pf/master/players/videoguard/src/cisco/services/cisco-subtitles-service.ts --line 137 /Users/ermeseneacolella/Projects/sky/repos/pf/master/players/videoguard/src/cisco/services/cisco-subtitles-service.ts</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/pf/master/common/common-player/src/device/network.ts --line 7 /Users/ermeseneacolella/Projects/sky/repos/pf/master/common/common-player/src/device/network.ts</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/pf/master/common/common-player/src/device/network.ts --line 34 /Users/ermeseneacolella/Projects/sky/repos/pf/master/common/common-player/src/device/network.ts</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/pf/master/common/common-player/src/device/network.ts --line 39 /Users/ermeseneacolella/Projects/sky/repos/pf/master/common/common-player/src/device/network.ts</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/smarttv/src/components/App/index.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/smarttv/src/components/App/index.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/feature-tracking/src/errors/sagas.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/feature-tracking/src/errors/sagas.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/webapp/app/initialisation/logging/index.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/webapp/app/initialisation/logging/index.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/webapp/app/bindings/videoPlayer/sagas.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/webapp/app/bindings/videoPlayer/sagas.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/electron/test/httpzProtocolHandler.test.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/electron/test/httpzProtocolHandler.test.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/electron/src/index.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/platforms/desktop/electron/src/index.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-testing/src/helpers/enzyme.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-testing/src/helpers/enzyme.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-testing/src/helpers/action-saga-tester.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-testing/src/helpers/action-saga-tester.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-resilience/src/cancellableRequest.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-resilience/src/cancellableRequest.js</string>
-		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-hash/src/ObjectHash.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/develop/packages/util-hash/src/ObjectHash.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/pages/index.tsx --line 264 /Users/ermeseneacolella/Projects/paradoxstats/pages/index.tsx</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/next.config.js --line 4 /Users/ermeseneacolella/Projects/paradoxstats/next.config.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/types.ts --line 1 /Users/ermeseneacolella/Projects/paradoxstats/utils/types.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/index.ts --line 5 /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/index.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/index.ts --line 1 /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/index.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/pages/index.tsx --line 17 /Users/ermeseneacolella/Projects/paradoxstats/pages/index.tsx</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/utils.ts --line 119 /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/utils.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/run.ts --line 2 /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/run.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/normalise.ts --line 1 /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/normalise.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/utils.ts --line 38 /Users/ermeseneacolella/Projects/paradoxstats/utils/parser/utils.ts</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/platforms/desktop/electron/src/functional-tests/lib/test-helper.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/platforms/desktop/electron/src/functional-tests/lib/test-helper.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-content/src/ContentList/tests/index.test.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-content/src/ContentList/tests/index.test.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-content/src/ContentRail/index.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-content/src/ContentRail/index.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-content/src/LiveSportsRail/index.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-content/src/LiveSportsRail/index.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-components/index.js --line 109 /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/ui-dom-components/index.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/platforms/desktop/webapp/app/containers/ContentPage/tests/index.test.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/platforms/desktop/webapp/app/containers/ContentPage/tests/index.test.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-bookmarking/src/factories/continueWatchingFactory.js --line 2 /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-bookmarking/src/factories/continueWatchingFactory.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-content-allproviders/src/providers/bookmarks/v1.js --line 4 /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-content-allproviders/src/providers/bookmarks/v1.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-content-provider/src/index.js --line 25 /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-content-provider/src/index.js</string>
+		<string>/usr/local/bin/webstorm /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-content-allproviders/src/providers/bookmarks/tests/index.test.js --line  /Users/ermeseneacolella/Projects/sky/repos/qgo/gr06/packages/feature-content-allproviders/src/providers/bookmarks/tests/index.test.js</string>
 	</array>
 	<key>Default Arrangement Name</key>
 	<string>aeneas/revision</string>
@@ -222,7 +226,7 @@
 	<key>NSWindow Frame SharedPreferences</key>
 	<string>649 454 796 486 0 0 1680 1027 </string>
 	<key>NSWindow Frame UKCrashReporter</key>
-	<string>127 443 592 584 0 0 1680 1027 </string>
+	<string>155 593 592 584 0 0 1920 1177 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
 	<string>0 0 1680 1027 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
@@ -397,29 +401,39 @@
 				<key>Alpha Component</key>
 				<real>1</real>
 				<key>Blue Component</key>
-				<real>0.14185131760314107</real>
+				<real>0.13725490196078433</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.14185131760314107</real>
+				<real>0.11764705882352941</real>
 				<key>Red Component</key>
-				<real>0.142974853515625</real>
+				<real>0.086274509803921567</real>
 			</dict>
 			<key>Background Image Location</key>
 			<string></string>
 			<key>Badge Color</key>
 			<dict>
 				<key>Alpha Component</key>
-				<real>0.5</real>
+				<real>0.6280670166015625</real>
 				<key>Blue Component</key>
-				<real>0.0</real>
+				<real>1</real>
 				<key>Color Space</key>
 				<string>sRGB</string>
 				<key>Green Component</key>
-				<real>0.1491314172744751</real>
+				<real>1</real>
 				<key>Red Component</key>
 				<real>1</real>
 			</dict>
+			<key>Badge Font</key>
+			<string>HelveticaNeue-Bold</string>
+			<key>Badge Max Height</key>
+			<real>0.20000000000000001</real>
+			<key>Badge Max Width</key>
+			<real>0.5</real>
+			<key>Badge Right Margin</key>
+			<real>10</real>
+			<key>Badge Top Margin</key>
+			<real>10</real>
 			<key>Blend</key>
 			<real>0.5617775941506411</real>
 			<key>Blinking Cursor</key>
@@ -817,7 +831,7 @@
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>FiraCode-Regular 13</string>
+			<string>FiraCode-Regular 14</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -1236,9 +1250,32 @@
 	</array>
 	<key>NoSyncAllAppVersions</key>
 	<array>
-		<string>3.2.9</string>
+		<string>3.3.6</string>
+		<string>3.3.2</string>
+		<string>3.3.8</string>
+		<string>3.3.1</string>
+		<string>3.3.3</string>
+		<string>3.3.5</string>
+		<string>3.3.7</string>
 		<string>3.3.0</string>
+		<string>3.2.9</string>
+		<string>3.3.4</string>
 	</array>
+	<key>NoSyncBFPRecents</key>
+	<array>
+		<string>Helvetica Neue</string>
+		<string>Fira Code</string>
+		<string>Helvetica</string>
+	</array>
+	<key>NoSyncCommandHistoryHasEverBeenUsed</key>
+	<true/>
+	<key>NoSyncFrame_SessionsPreferences</key>
+	<dict>
+		<key>screenFrame</key>
+		<string>{{0, 0}, {1920, 1200}}</string>
+		<key>topLeft</key>
+		<string>{269, 595}</string>
+	</dict>
 	<key>NoSyncFrame_SharedPreferences</key>
 	<dict>
 		<key>screenFrame</key>
@@ -1250,12 +1287,16 @@
 	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
+	<key>NoSyncInstallUtilitiesPackage</key>
+	<true/>
+	<key>NoSyncInstallUtilitiesPackage_selection</key>
+	<integer>0</integer>
 	<key>NoSyncInstallationId</key>
 	<string>9ADBEB44-0D8C-4690-BF33-390C88B68AD9</string>
 	<key>NoSyncLastTipTime</key>
-	<real>586688662.64517999</real>
+	<real>589540274.82233405</real>
 	<key>NoSyncLaunchExperienceControllerRunCount</key>
-	<integer>4</integer>
+	<integer>62</integer>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -1608,6 +1649,14 @@
 				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
+				<string>currentTab.currentSession.termid</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
 				<string>currentTab.currentSession.terminalWindowName</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
@@ -1617,6 +1666,14 @@
 				<true/>
 				<key>name</key>
 				<string>currentTab.currentSession.terminalIconName</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
+				<string>currentTab.currentSession.lastCommand</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -1681,6 +1738,14 @@
 				<true/>
 				<key>name</key>
 				<string>currentTab.currentSession.path</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
+				<string>number</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -1753,9 +1818,25 @@
 			</dict>
 			<dict>
 				<key>isTerminal</key>
+				<false/>
+				<key>name</key>
+				<string>title</string>
+				<key>nonterminalContext</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
 				<true/>
 				<key>name</key>
 				<string>tmuxWindowTitle</string>
+				<key>nonterminalContext</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>isTerminal</key>
+				<true/>
+				<key>name</key>
+				<string>title</string>
 				<key>nonterminalContext</key>
 				<integer>0</integer>
 			</dict>
@@ -1948,11 +2029,6 @@
 			</dict>
 		</array>
 	</dict>
-	<key>NoSyncSearchHistory</key>
-	<array>
-		<string>ermes</string>
-		<string>node_</string>
-	</array>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
 	<real>566844913.75996697</real>
 	<key>NoSyncTipsToNotShow</key>
@@ -2032,7 +2108,18 @@
 		<string>0071</string>
 		<string>0072</string>
 		<string>0073</string>
+		<string>0074</string>
+		<string>0075</string>
+		<string>0076</string>
+		<string>0077</string>
+		<string>0078</string>
 	</array>
+	<key>OnlyWhenMoreTabs</key>
+	<true/>
+	<key>OpenArrangementAtStartup</key>
+	<false/>
+	<key>OpenNoWindowsAtStartup</key>
+	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -2070,6 +2157,8 @@
 	<string>/Users/ermeseneacolella/.config/iterm2</string>
 	<key>PreserveWindowSizeWhenTabBarVisibilityChanges</key>
 	<false/>
+	<key>PromptOnQuit</key>
+	<false/>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -2079,8 +2168,10 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2019-08-04T14:10:02Z</date>
+	<date>2020-02-06T00:19:39Z</date>
 	<key>SUSendProfileInfo</key>
+	<false/>
+	<key>SUUpdateRelaunchingMarker</key>
 	<false/>
 	<key>SeparateStatusBarsPerPane</key>
 	<false/>
@@ -2091,13 +2182,13 @@
 	<key>SplitPaneDimmingAmount</key>
 	<real>0.2987477836879433</real>
 	<key>StatusBarPosition</key>
-	<integer>0</integer>
+	<integer>1</integer>
 	<key>TabStyleWithAutomaticOption</key>
-	<integer>6</integer>
+	<integer>5</integer>
 	<key>TabViewType</key>
 	<integer>0</integer>
 	<key>UKCrashReporterLastCrashReportDate</key>
-	<real>1564870528</real>
+	<real>1565081856</real>
 	<key>VisualIndicatorForEsc</key>
 	<false/>
 	<key>Window Arrangements</key>
@@ -10117,7 +10208,7 @@
 	<key>findMode_iTerm</key>
 	<integer>0</integer>
 	<key>iTerm Version</key>
-	<string>3.3.0</string>
+	<string>3.3.8</string>
 	<key>kCPKSelectionViewPreferredModeKey</key>
 	<integer>0</integer>
 	<key>kCPKSelectionViewShowHSBTextFieldsKey</key>
